@@ -1,0 +1,11 @@
+{
+    "description": "personal website of asdfer",
+    "repo": "https://github.com/asdfer-1234/website",
+    "owner": {
+        "username": "asdfer-1234",
+        "email": "asdfer1234 on discord"
+    },
+    "record": {
+        "CNAME": "asdfer-1234.github.io"
+    }
+}
